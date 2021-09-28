@@ -1,0 +1,66 @@
+body {
+  background-image: url(back.jpg);
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+}
+h1 {
+  color: rgb(204, 214, 67);
+  background-color: rgb(10, 52, 107);
+  border-radius: 5%;
+}
+
+img {
+  border-radius: 15%;
+  float: left;
+  margin: 2%;
+}
+.edu {
+  opacity: 85%;
+  border: 5px solid;
+  border-color: cornsilk;
+  border-radius: 15px;
+  padding: 1%;
+  padding-top: 1rem;
+  width: 45%;
+  margin-left: 32rem;
+  margin-top: 2rem;
+  float: right top;
+  background-color: wheat;
+}
+.personal {
+  opacity: 85%;
+  border: 5px solid;
+  border-color: cornsilk;
+  border-radius: 15px;
+  padding: 1%;
+  padding-top: 1rem;
+  width: 30%;
+  margin: 1% auto 1% 1%;
+  text-align: start;
+  background-color: wheat;
+}
+.head {
+  background-color: rgb(164, 192, 164);
+  color: blue;
+  margin: 0%;
+  padding: 3%;
+  border-radius: 15px;
+  font-size: 1.5rem;
+}
+
+.exp {
+  opacity: 85%;
+  border: 5px solid;
+  border-color: cornsilk;
+  border-radius: 15px;
+  padding: 1%;
+  padding-top: 1rem;
+  width: 50%;
+  float: right;
+
+  margin-right: 7rem;
+  margin-top: 3rem;
+  background-color: wheat;
+}
